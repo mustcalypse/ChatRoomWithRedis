@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mca/Desktop/ChatRoomWithRedis/chat_lib/chat_lib.csproj": {}
+    "/home/mca/Desktop/ChatRoomWithRedis/RedisDbLibNew/redolib.csproj": {}
   },
   "projects": {
-    "/home/mca/Desktop/ChatRoomWithRedis/chat_lib/chat_lib.csproj": {
+    "/home/mca/Desktop/ChatRoomWithRedis/RedisDbLibNew/redolib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mca/Desktop/ChatRoomWithRedis/chat_lib/chat_lib.csproj",
-        "projectName": "chat_lib",
-        "projectPath": "/home/mca/Desktop/ChatRoomWithRedis/chat_lib/chat_lib.csproj",
+        "projectUniqueName": "/home/mca/Desktop/ChatRoomWithRedis/RedisDbLibNew/redolib.csproj",
+        "projectName": "redolib",
+        "projectPath": "/home/mca/Desktop/ChatRoomWithRedis/RedisDbLibNew/redolib.csproj",
         "packagesPath": "/home/mca/.nuget/packages/",
-        "outputPath": "/home/mca/Desktop/ChatRoomWithRedis/chat_lib/obj/",
+        "outputPath": "/home/mca/Desktop/ChatRoomWithRedis/RedisDbLibNew/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
