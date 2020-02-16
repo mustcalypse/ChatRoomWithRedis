@@ -1,0 +1,14 @@
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/chat_app.deps.json
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/chat_app.runtimeconfig.json
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/chat_app.runtimeconfig.dev.json
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/chat_app.dll
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/chat_app.pdb
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/redo_mq.dll
+/home/mca/Desktop/chat_app/bin/Debug/netcoreapp2.1/redo_mq.pdb
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.csprojAssemblyReference.cache
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.csproj.CoreCompileInputs.cache
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.AssemblyInfoInputs.cache
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.AssemblyInfo.cs
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.csproj.CopyComplete
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.dll
+/home/mca/Desktop/chat_app/obj/Debug/netcoreapp2.1/chat_app.pdb
